@@ -17,7 +17,7 @@ html {
   background: transparent url("../images/clock-face.svg") no-repeat center center;
 }
 
-.clock-center{
+.clock-center {
   bottom: calc(50% - 14px);
   left: calc(50% - 14px);
   position: absolute;
@@ -46,6 +46,7 @@ html {
   100% {
     transform: rotate(360deg);
   }
+
 }
 
 .hand-hour {
